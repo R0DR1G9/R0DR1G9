@@ -1,5 +1,6 @@
 Olá, eu sou o Rodrigo Barbosa! 👋
 
+
 Transformando processos lentos, chatos e complicados em soluções práticas, rápidas e muito mais eficientes — através de dados, código e muita competitividade herdada das quadras de basquete. 🏀
 
 ---
