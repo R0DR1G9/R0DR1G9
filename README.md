@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou o Rodrigo Barbosa! 👋
 
-<!--
-**R0DR1G9/R0DR1G9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformando processos lentos, chatos e complicados em soluções práticas, rápidas e muito mais eficientes — através de dados, código e muita competitividade herdada das quadras de basquete. 🏀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre Mim
+
+* 🎓 Graduando em Ciência da Computação na **CESAR School** (1º Período).
+* 📊 Estagiário de Data Science na **Gestex Soluções em Gestão**.
+* 🛠️ No trabalho, utilizo **Lovable** e **Excel** para automação de processos e análise de dados — tornando tarefas repetitivas em fluxos ágeis e eficientes.
+* 📚 Nos estudos pessoais e acadêmicos, estou me aprofundando em **Python** e na stack de **Front-End** (HTML5, CSS3 e JavaScript).
+* 🏀 Fiz basquete por anos — aprendi que consistência, trabalho em equipe e mentalidade competitiva constroem resultados reais, dentro e fora do jogo.
+* 🎯 Meu objetivo é ser o tipo de profissional que pega um processo que levava horas e transforma em algo que roda em minutos — com código, dados ou a ferramenta certa para o problema certo.
+* 🌍 Fluente em inglês e português.
+* 📍 Recife, PE, Brasil.
+
+---
